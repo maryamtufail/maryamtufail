@@ -8,11 +8,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/maryamtufail)
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 </div>
 <br/> <br/>
 
-#### :woman_technologist: About Me :
+### :woman_technologist: About Me :
 __________________
 
 I believe <i>"Don't stop until you're proud."</i>
