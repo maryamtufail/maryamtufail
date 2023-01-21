@@ -21,8 +21,7 @@ I believe <i>"Don't stop until you're proud."</i>
 
 This is Maryam Tufail. I'm React & Redux / Frontend / 
 Javascript Developer with an interest in building Pixel Perfect Websites. I’ve been Learning about different technologies and keeping myself updated with the upcoming trends and technologies in the market.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamtufail&show_icons=true)  
+  
 
 ## Conntact me:  
 <a href="https://www.linkedin.com/in/maryamtufail/">
