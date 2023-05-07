@@ -7,7 +7,7 @@
 With my expertise in react js, javascript and tailwind css, I consider myself an artist who creates stunning websites that not only look great but also function seamlessly. Being a lover of art and animation, I believe that my unique not only attracts clients but also makes ne stand out amidst the competition as a frontend developer. 
 I will be the frontend developer, if you want your website to stand out with responsive design and smooth animations.</p>
 
-- 🔭 I’m currently working on **Pokedex**
+- 🔭 I’m currently working on **Ecommerce-site**
 
 - 🌱 I’m currently learning **GSAP and Framer Motion.**
 
