@@ -1,15 +1,14 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGZROH--SBT-Q/profile-displaybackgroundimage-shrink_350_1400/0/1688846667354?e=1697673600&v=beta&t=kVu-jWYIQ5C2BTMoyWsfv4gMSuAN20zwWLloxdW2pXE" />
+<img src="https://media.licdn.com/dms/image/D4D16AQE2NZXiTSACvA/profile-displaybackgroundimage-shrink_350_1400/0/1694779261916?e=1700092800&v=beta&t=QlSASkizi2i97_un-Fla6bnUTgA2dmDANCki1VqH6wY" />
 <div align="center" >
-<h3 >Hi 👋, Your helping hand for growth: Boost Online presence 🚀</h2>
+<h3 >Hi 👋, Meet me. I am Maryam Tufail. Your helping hand for growth: Boost Online presence 🚀</h2>
  <a href="https://www.instagram.com/frontendfirst/"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="Instagram" width="40"/></a>
 <a href=""> <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" alt="Instagram" width="40"/></a>
 </div>
-<p> <b>Love to do:</b> Creating responsive UIs for Business Growths: 
+<p> <b>Love to do:</b> 
  
  - Convert Figma to code.
  - Redesign a website
  - Idea to Code
- - Ecommerce frontstore using hydrogen.
 </p>
 
 <p align="left">
