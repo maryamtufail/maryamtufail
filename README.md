@@ -1,20 +1,17 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQE2NZXiTSACvA/profile-displaybackgroundimage-shrink_350_1400/0/1694779261916?e=1700092800&v=beta&t=QlSASkizi2i97_un-Fla6bnUTgA2dmDANCki1VqH6wY" />
-<div align="center" >
-<h3 >Hi 👋, Meet me. I am Maryam Tufail. Your helping hand for growth: Boost Online presence 🚀</h2>
- <a href="https://www.instagram.com/frontendfirst/"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="Instagram" width="40"/></a>
-<a href=""> <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" alt="Instagram" width="40"/></a>
+<img src="https://media.licdn.com/dms/image/D4D16AQEO2czaHuTDlg/profile-displaybackgroundimage-shrink_350_1400/0/1702638072088?e=1712793600&v=beta&t=XM_Xi-fzm8mfwCmlvhEtUvHdjCPVgGrTpu9XHWzXsrQ" />
+<div >
+<h3 >Hi 👋, Meet me. Maryam Tufail ⚡ Frontend Developer 
+
+Next.js | React.js | Problem Solver | JS</h2>
 </div>
-<p> <b>Love to do:</b> 
- 
- - Convert Figma to code.
- - Redesign a website
- - Idea to Code
-</p>
 
 <p align="left">
  "What sets us apart is not what we do, but why and how we do it."
 
-Let's collaborate to frontend projects!</p>
+Let's collaborate to frontend projects!
+
+ <a href="https://www.instagram.com/frontendfirst/"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="Instagram" width="40"/></a>
+<a href=""> <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" alt="Instagram" width="40"/></a></p>
 
 ### Tech Stack:
 <p align="left">
