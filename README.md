@@ -48,13 +48,6 @@ Senior full stack Developer with 4+ years of experience in developing web applic
     using React.js to ensure a fast and responsive user experience, integrating essential tools and resources 
     like Redux for state management and Material-UI for design.  </div>
   </li>
-  <li>
-    <a href="/" >The Logo Cafe</a> 
-    (Corporate Website) - The client needed a website to enhance 
-    their branding and development services, with a focus on performance and accessibility to attract more clients. 
-   <div> <b> Solution:  </b> Optimized the frontend with a user-centric design, achieving high Lighthouse scores in performance 
-    and accessibility. </div>
-  </li>
 </ul>
 
 #### My Life Philosophy
