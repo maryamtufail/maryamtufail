@@ -19,7 +19,7 @@ Senior full stack Developer with 4+ years of experience in developing web applic
 
 <ul>
   <li>
-    <a href="/" >River City Tech</a> 
+    <a href="https://rivercitytech.ca/" >River City Tech</a> 
     (CMS Dashboard) - The client faced inefficiencies 
     and reduced productivity due to fragmented business processes and disjointed data management. 
   
@@ -27,21 +27,21 @@ Senior full stack Developer with 4+ years of experience in developing web applic
     integrating data, and streamlining processes to significantly boost productivity. </div>
   </li>
   <li>
-    <a href="/" >Pineapple MMA</a> 
+    <a href="https://www.pineapplemma.com/" >Pineapple MMA</a> 
     (SaaS Web Application) - The gym struggled with inefficient 
     operations and low member engagement, limiting revenue growth. 
    <div> <b>Solution: </b> Developed a SaaS platform with 
     automated scheduling and member management, driving a $3M revenue boost. </div>
   </li>
   <li>
-    <a href="/" >Bar Training</a> 
+    <a href="https://www.thebartrainingfacility.com/" >Bar Training</a> 
     (Web Application) - The gym's website experienced slow load 
     times and lacked a mobile-first approach. 
    <div>  <b>Solution: </b> Developed a user-centric frontend, resulting in 
     excellent Lighthouse scores for both performance and accessibility. </div>
   </li>
   <li>
-    <a  href="/" >The Hub</a> 
+    <a  href="https://www.thehub.app/" >The Hub</a> 
     (SaaS Web Application) - The client needed a cohesive platform to 
     assist job seekers in finding employment more quickly and with less stress. 
    <div><b> Solution:  </b> Built the frontend 
