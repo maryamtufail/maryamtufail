@@ -1,19 +1,44 @@
 <div align="left">
 <h3> 👩🏻‍💻 Maryam Tufail - Frontend Evolving Full-Stack Engineer</h2>
 <p >
-Senior full stack Developer with 4+ years of experience in developing web applications. Proficient in JavaScript, TypeScript, React, Next.js, and Node.js, with expertise in Redux, Tailwind CSS, SASS, and Material-UI. Skilled in version control (Git/GitHub), CI/CD pipelines, and RESTful API integration. Strong ability for continuous learning, having received mentorship from senior developers and actively sharing insights with junior developers globally through platforms like Google Meet and AnyDesk. Excel in problem-solving, agile methodologies, and cross-functional collaboration, consistently contributing to teams to exceed project expectations.
+Senior Frontend Engineer with over 4 years of experience designing and developing responsive, user-friendly web applications using JavaScript, TypeScript, React, and Next.js. Skilled in seamless API integration (RESTful and GraphQL) to deliver dynamic, high-performance interfaces. Experienced in leading frontend architecture, optimizing application performance, and maintaining code quality through testing and reviews. Strong collaborator with cross-functional teams, translating complex requirements into scalable technical solutions while mentoring junior developers and driving agile best practices.
 </p>
+<h2>🛠 Tech Stack</h2>
+
+<h3>💻 Frontend</h3>
 <ul>
- <li>
-<b>Client-Side: </b>  JavaScript, TypeScript, React.js, Next.js, CSS, Tailwind CSS, Bootstrap, Material UI, Responsive Design, Performance Optimization, SASS, HTML5
- </li>
-  <li>
-<b>Server-Side: </b>  Node.js, Express.js, RESTful API's, GraphQL, MongoDB, Mongoose, Firebase
- </li>
-  <li>
-<b>Tools & Operations: </b>  Git, Jest, ESLint, Jira, Figma
- </li>
+  <li><strong>Frameworks/Libraries:</strong> React.js, Next.js</li>
+  <li><strong>Languages:</strong> JavaScript (ES6+), TypeScript</li>
+  <li><strong>State Management:</strong> Redux, React Context API</li>
+  <li><strong>APIs:</strong> RESTful APIs, GraphQL, Axios</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Web Technologies:</strong> HTML5, CSS3, Tailwind CSS, Bootstrap, SCSS</li>
 </ul>
+
+<h3>🔍 Tools</h3>
+<ul>
+  <li>Lighthouse</li>
+  <li>Chrome DevTools</li>
+</ul>
+
+<h3>🎨 Design & UI Systems</h3>
+<ul>
+  <li>Figma, Adobe XD</li>
+  <li>Material-UI, Ant Design, Headless UI</li>
+</ul>
+
+<h3>🚀 Deployment & CI/CD</h3>
+<ul>
+  <li>Vercel, Netlify, Firebase</li>
+  <li>GitHub Actions</li>
+</ul>
+
+<h3>📦 Project Methodologies</h3>
+<ul>
+  <li>Agile, Scrum, Kanban</li>
+  <li>Jira, Trello</li>
+</ul>
+
 
 
 #### My Life Philosophy
